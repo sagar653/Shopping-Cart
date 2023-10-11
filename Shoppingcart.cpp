@@ -1,7 +1,7 @@
 #include<bits/stdc++. h>
 using namespace std;
 
-//Forward Declaration
+
 class Item;
 class Cart;
 
